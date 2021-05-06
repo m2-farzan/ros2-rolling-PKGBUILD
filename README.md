@@ -19,7 +19,7 @@ in pull request description.
 
 ## See also
 
-[This package on AUR](https://aur.archlinux.org/packages/ros2-rolling/)
+[This package on AUR](https://aur.archlinux.org/packages/ros2-git/)
 
 [ROS 2 on Arch Wiki](https://wiki.archlinux.org/index.php/ROS)
 
