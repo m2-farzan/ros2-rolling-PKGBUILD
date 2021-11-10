@@ -1,5 +1,8 @@
 # ROS 2 (Rolling) PKGBUILD
 
+> :warning: **Note**: The rolling distro moves too fast and I often
+> fail to keep up. Use ros2-galactic package if you don't want trouble.
+
 This package aims to provide an easy way to install ROS 2 on Archlinux.
 
 ## Contribution Notes
