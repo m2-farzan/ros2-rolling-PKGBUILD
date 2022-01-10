@@ -1,5 +1,9 @@
 # ROS 2 (Rolling) PKGBUILD
 
+[![AUR - ros2-git](https://img.shields.io/static/v1?label=AUR&message=ros2-git&color=1793D1&logo=archlinux)](https://aur.archlinux.org/packages/ros2-git/)
+![CI](https://github.com/m2-farzan/ros2-rolling-PKGBUILD/actions/workflows/test.yaml/badge.svg)
+![Consider starring the repo!](https://img.shields.io/static/v1?label=&message=Consider+starring+the+repo!&color=gold)
+
 This package aims to provide an easy way to install ROS 2 on Archlinux.
 
 ## Contribution
