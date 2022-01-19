@@ -21,6 +21,7 @@ depends=(
     'gmock'
     'sip4'
 )
+provides=(ros2)
 source=(
     "ros2::git+https://github.com/ros2/ros2#branch=master"
     "rviz_assimp_vendor.patch"
